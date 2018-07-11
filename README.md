@@ -20,5 +20,5 @@ So you can use this tool without command and just with clicking.
 所以您可以使用這個工具只需點按而非命令。
 # Download 下載
 [Download AppleShowAllFiles Tool 下載蘋果顯示所有文件工具](https://github.com/brianwong1103/AppleShowAllFiles/blob/Downloads/AppleShowAllFiles?raw=true)
-# If The Above Download Link Is Unable To Download:
+# If The Above Download Link Is Unable To Download: 如果以上連結無法下載：
 [Download AppleShowAllFiles Tool 下載蘋果顯示所有文件工具](https://github.com/brianwong1103/AppleShowAllFiles/tree/Downloads)
