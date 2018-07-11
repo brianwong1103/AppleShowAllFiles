@@ -14,3 +14,5 @@ Don't you think the commands make you crazy?
 So you can use this tool without command and just with clicking.
 # Download
 [Download AppleShowAllFiles Tool](https://github.com/brianwong1103/AppleShowAllFiles/blob/Downloads/AppleShowAllFiles?raw=true)
+# If The Above Download Link Is Unable To Download:
+[Download AppleShowAllFiles Toll](https://github.com/brianwong1103/AppleShowAllFiles/tree/Downloads)
