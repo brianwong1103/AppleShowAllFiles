@@ -13,4 +13,4 @@ type in "2" to hide the hidden file.
 Don't you think the commands make you crazy?
 So you can use this tool without command and just with clicking.
 # Download
-[a link](https://github.com/brianwong1103/AppleShowAllFiles/blob/Downloads/AppleShowAllFiles?raw=true)
+[Download AppleShowAllFiles Tool](https://github.com/brianwong1103/AppleShowAllFiles/blob/Downloads/AppleShowAllFiles?raw=true)
